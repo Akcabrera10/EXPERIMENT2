@@ -12,7 +12,7 @@ int main()
     
 	cout << "This program computes your monthly internet bill by inputting the number of hours used.\n";
 	cout << "Please enter your internet bill package (A, B, or C):  ";	cin >> packageInput;
-    cout << "Input number of hours used:  "; cin >> hoursUsed;
+   	cout << "Input number of hours used:  "; cin >> hoursUsed;
 	
 	switch(packageInput)
 				{
